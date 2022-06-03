@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @necrobancer
+- 👋 Hi, I’m @Spartacus
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning networking
 - 💞️ I’m looking to collaborate on guiding me to do projects ...
